@@ -1,0 +1,28 @@
+#login_box{
+    margin: 0 auto;
+    width: 300px;
+    height: 200px;
+    background-color: #C0C0C0;
+    opacity: 0.6;
+}
+#login_box h2{
+    padding: 5px 0 0 120px;
+    color: #800080;
+    letter-spacing: 5px;
+}
+
+#username,#password{
+    display: block;
+    margin: 10px 0 0 50px;
+    width: 200px;
+    height: 25px;
+    border: none;
+    border-radius: 3px;
+}
+#isRmbPwd{
+    display: inline-block;
+    margin-left: 50px;
+    width: 20px;
+    height: 20px;
+}
+
